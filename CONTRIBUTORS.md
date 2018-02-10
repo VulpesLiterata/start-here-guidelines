@@ -69,3 +69,5 @@
 -[@viwnj](https://github.com/viwnj)
 
 -[@Sinon2025](https://github.com/Sinon2025)
+
+-[@VulpesLiterata]((https://github.com/VulpesLiterata)
